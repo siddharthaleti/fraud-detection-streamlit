@@ -1,4 +1,4 @@
-joblib
+joblib # needed for model loading
 streamlit
 xgboost
 scikit-learn
